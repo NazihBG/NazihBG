@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Nazih BOUGUERBA**
+![Hi, I'm Nazih BOUGUERBA](https://img.shields.io/badge/Hi%2C%20I'm%20Nazih%20BOUGUERBA-%F0%9F%91%8B-blueviolet?style=for-the-badge&logo=github)
 
 ### 💻 Engineering Student | AI & ML Enthusiast | Tech Innovator
 
